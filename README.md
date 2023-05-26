@@ -32,15 +32,15 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
  
 
 ### PROCEDURE:
-#### Open Robo Analyzer application
+#### 1. Open Robo Analyzer application
 ![Screenshot (37)](https://github.com/Madhav005/Forward-kinematics-using-robot-analyzer/assets/110885274/44f17684-560f-4221-9fb6-b5a2d432a40d)
-#### Change DOF to 6
+#### 2. Change DOF to 6
 ![Screenshot (38)](https://github.com/Madhav005/Forward-kinematics-using-robot-analyzer/assets/110885274/5cf0b9cf-93d1-46e8-9b03-c27376bc02cc)
-#### Set Parameters
+#### 3. Set Parameters
 ![Screenshot (39)](https://github.com/Madhav005/Forward-kinematics-using-robot-analyzer/assets/110885274/254f3c74-3c7c-4eeb-b6ea-4ea207945337)
-#### Click Fkin to simulate
+#### 4. Click Fkin to simulate
 ![Screenshot (40)](https://github.com/Madhav005/Forward-kinematics-using-robot-analyzer/assets/110885274/a046b426-733c-4387-ac3c-361d208b2581)
-#### Plot the graphs
+#### 5. Plot the graphs
 ![Screenshot (41)](https://github.com/Madhav005/Forward-kinematics-using-robot-analyzer/assets/110885274/7ce101b5-eae0-4af2-9551-667e97b0a250)
 
 
