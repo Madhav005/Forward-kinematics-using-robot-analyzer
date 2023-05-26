@@ -80,3 +80,4 @@ Joint 6
 
 
 ### RESULTS :  
+The forward kinematics using DH paramerters for a 4 and 6 dof robot using roboanalyzer and polt the graph for link cordinates and joint angles has been analysed
